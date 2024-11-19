@@ -1,4 +1,3 @@
 ## 
 
-
-[https://colab.research.google.com/github/nabinsharmaUTS/Introduction-AI-ML-CV-DFAT/blob/main/ImageClassfication-Demo/ImageClassification-Demo.ipynb]<img src="Images/Images/colab-badge.svg" width="128"/> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nabinsharmaUTS/Introduction-AI-ML-CV-DFAT/blob/main/ImageClassfication-Demo/ImageClassification-Demo.ipynb)
