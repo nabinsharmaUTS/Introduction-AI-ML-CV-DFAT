@@ -1,4 +1,4 @@
-# DFAT Korea Visit to University of Technology Sydney (UTS)
+# DFAT Korea's Visit to the University of Technology Sydney (UTS)
 
 ## Event Details:
 * **When:** Nov 20, 2024, 10.00am - 1.00pm
