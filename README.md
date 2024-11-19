@@ -1,7 +1,8 @@
 # DFAT Korea Visit to University of Technology Sydney (UTS)
 
-## **When:** Nov 20, 2024, 10am - 1pm
-## **Where:** CB08.02.005
+## 
+**When:** Nov 20, 2024, 10am - 1pm
+**Where:** CB08.02.005
 
 ## Speaker
 * **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
