@@ -53,6 +53,6 @@ Introduction to AI, ML, CV, DL, and Image Classification using CNN
 
 Click to provide your feedback -->  <a>https://forms.office.com/r/zzcAgMzuFu?embed=true</a>
 
-![Alt text](Images/QRCode for Introduction to AI, ML, CV, DL, and Image Classification using CNN.png)
+![Alt text](Images/QRCode.png)
 
 
