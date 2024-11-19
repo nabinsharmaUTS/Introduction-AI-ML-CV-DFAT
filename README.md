@@ -3,7 +3,16 @@
 ## **Date:** Nov 20, 2024, 10am - 1pm
 
 ## Speaker
-* A/Prof. Nabin Sharma, Course Director: Master and Bachelor of Artificial Intelligence, School of Computer Science,  UTS
+* **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
+Associate Professor,<br/>
+Co-Director (Intelligent Drone Lab),<br/>
+Course Director: Master and Bachelor of Artificial Intelligence <br/>
+Faculty of Engineering and Information Technology,<br/>
+University of Technology Sydney,<br/>
+School of Computer Science,<br/>
+Broadway, Ultimo, NSW 2007 Australia<br/>
+**Email**: Nabin.Sharma@uts.edu.au
+
 * Dr. Maoying Qiao, Senior Lecturer, School of Computer Science, UTS
 
 ## Session Title
