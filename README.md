@@ -22,7 +22,7 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   **Email**: maoying.qiao@uts.edu.au
 
 ## Session Title
-Introduction to AI, ML, CV, DL, and Image Classification using CNN
+Foundations of AI, ML, CV, DL, and CNNs for Image Classification
 
 ## Topics:
 * Introduction to AI, ML, CV, & DL
