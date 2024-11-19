@@ -13,7 +13,11 @@ School of Computer Science,<br/>
 Broadway, Ultimo, NSW 2007 Australia<br/>
 **Email**: Nabin.Sharma@uts.edu.au
 
-* Dr. Maoying Qiao, Senior Lecturer, School of Computer Science, UTS
+* **Dr. Maoying Qiao,** <br/>
+  Senior Lecturer,<br/>
+  School of Computer Science,<br/>
+  Broadway, Ultimo, NSW 2007 Australia<br/>
+  **Email**: maoying.qiao@uts.edu.au
 
 ## Session Title
 Introduction to AI, ML, CV, DL, and Image Classification using CNN
