@@ -52,7 +52,9 @@ Introduction to AI, ML, CV, DL, and Image Classification using CNN
 ## Survey
 
 Click to provide your feedback -->  <a>https://forms.office.com/r/zzcAgMzuFu?embed=true</a>
+or Scan the QR Code below: 
 
-![Alt text](Images/QRCode.png)
+<img src="Images/QRCode.png" width="128"/>
+
 
 
